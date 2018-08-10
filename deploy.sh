@@ -1,5 +1,5 @@
 #! /usr/bin/bash
-echo -e "\033[0;32mDeploying updates to coding.net...\033[0m"
+echo -e "\033[0;32mDeploying updates to cv-benchmarks...\033[0m"
 
 git pull
 
