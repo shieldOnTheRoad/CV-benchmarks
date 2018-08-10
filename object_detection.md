@@ -8,17 +8,17 @@
 **VOC2007**
 
 - comments: 2,501 images (train) / 2,510 images (val) / 4,952 images (test)
-- download: <http://host.robots.ox.ac.uk/pascal/VOC/voc2007/>{:target="_blank"}
+- download: http://host.robots.ox.ac.uk/pascal/VOC/voc2007/
 
 **VOC2012**
 
 - comments: 5,717 images (train) / 5,823 images (val)
-- download: <http://host.robots.ox.ac.uk/pascal/VOC/voc2012/>{:target="_blank"}
+- download: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 
 **COCO**
 
 - comments: 165,482 images (train) / 81,208 images (val) / 81,434 images (test)
-- download: <http://cocodataset.org/#download>{:target="_blank"}
+- download: http://cocodataset.org/#download
 
 # <u>Benchmarks</u>
 
@@ -56,114 +56,114 @@
 <span id="1">[1]</span> **Rich feature hierarchies for accurate object detection and semantic segmentation**
     
 - comments: CVPR 2014
-- arxiv: <https://arxiv.org/abs/1311.2524>{:target="_blank"}
-- github: <https://github.com/rbgirshick/rcnn>{:target="_blank"} `MatLAB`
+- arxiv: https://arxiv.org/abs/1311.2524
+- github: https://github.com/rbgirshick/rcnn `MatLAB`
 
 <span id="2">[2]</span> **Fast R-CNN**
     
 - comments: ICCV 2015
-- arxiv: <https://arxiv.org/abs/1504.08083>{:target="_blank"}
-- github: <https://github.com/rbgirshick/py-faster-rcnn>{:target="_blank"} `caffe`
+- arxiv: https://arxiv.org/abs/1504.08083
+- github: https://github.com/rbgirshick/py-faster-rcnn `caffe`
 
 <span id="3">[3]</span> **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
 
 - comments: NIPS 2015
-- arxiv: <https://arxiv.org/abs/1506.01497>{:target="_blank"}
-- github: <https://github.com/rbgirshick/py-faster-rcnn>{:target="_blank"} `caffe`
-- github: <https://github.com/facebookresearch/Detectron>{:target="_blank"} `pytorch/caffe2`
-- github: <https://github.com/endernewton/tf-faster-rcnn>{:target="_blank"} `tensorflow`
+- arxiv: https://arxiv.org/abs/1506.01497
+- github: https://github.com/rbgirshick/py-faster-rcnn `caffe`
+- github: https://github.com/facebookresearch/Detectron `pytorch/caffe2`
+- github: https://github.com/endernewton/tf-faster-rcnn `tensorflow`
 
 <span id="4">[4]</span> **Deep Residual Learning for Image Recognition**
 
 - comments: CVPR 2015
-- arxiv: <https://arxiv.org/abs/1512.03385>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1512.03385
 
 <span id="5">[5]</span> **R-FCN: Object Detection via Region-based Fully Convolutional Networks**
 
 - comments: NIPS 2016
-- arxiv: <https://arxiv.org/abs/1605.06409>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1605.06409
 
 <span id="6">[6]</span> **Deformable Convolutional Networks**
 
 - comments: ICCV 2017
-- arxiv: <https://arxiv.org/abs/1703.06211>{:target="_blank"}
-- github: <https://github.com/msracver/Deformable-ConvNets>{:target="_blank"} `mxnet`
+- arxiv: https://arxiv.org/abs/1703.06211
+- github: https://github.com/msracver/Deformable-ConvNets `mxnet`
 
 <span id="7">[7]</span> **Mask R-CNN**
 
 - comments: ICCV 2017
-- arxiv: <https://arxiv.org/abs/1703.06870>{:target="_blank"}
-- github: <https://github.com/facebookresearch/Detectron>{:target="_blank"} `pytorch/caffe2`
+- arxiv: https://arxiv.org/abs/1703.06870
+- github: https://github.com/facebookresearch/Detectron `pytorch/caffe2`
 
 <span id="8">[8]</span> **Light-Head R-CNN: In Defense of Two-Stage Object Detector**
 
 - comments: arxiv preprint
-- arxiv: <https://arxiv.org/abs/1711.07264>{:target="_blank"}
-- github: <https://github.com/zengarden/light_head_rcnn>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1711.07264
+- github: https://github.com/zengarden/light_head_rcnn
 
 <span id="9">[9]</span> **MegDet: A Large Mini-Batch Object Detector**
 
 - comments: CVPR 2018
-- arxiv: <https://arxiv.org/abs/1711.07240>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1711.07240
 
 <span id="10">[10]</span> **SNIPER: Efficient Multi-Scale Training**
 
 - comments: arxiv preprint
-- arxiv: <https://arxiv.org/abs/1805.09300>{:target="_blank"}
-- github: <https://github.com/mahyarnajibi/SNIPER>{:target="_blank"} `mxnet`
+- arxiv: https://arxiv.org/abs/1805.09300
+- github: https://github.com/mahyarnajibi/SNIPER `mxnet`
 
 <span id="11">[11]</span> **You Only Look Once: Unified, Real-Time Object Detection**
 
 - comments: CVPR 2016
-- arxiv: <https://arxiv.org/abs/1506.02640>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1506.02640
 
 <span id="12">[12]</span> **YOLO9000: Better, Faster, Stronger**
 
 - comments: arxiv preprint
-- arxiv: <https://arxiv.org/abs/1612.08242>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1612.08242
 
 <span id="13">[13]</span> **YOLOv3: An Incremental Improvement**
 
 - comments: arxiv preprint
-- arxiv: <https://arxiv.org/abs/1804.02767>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1804.02767
 
 <span id="14">[14]</span> **SSD: Single Shot MultiBox Detecto**
 
 - comments: ECCV 2016
-- arxiv: <https://arxiv.org/abs/1512.02325>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1512.02325
 
 <span id="15">[15]</span> **Focal Loss for Dense Object Detection**
 
 - comments: ICCV 2017
-- arxiv: <https://arxiv.org/abs/1708.02002>{:target="_blank"}
-- github: <https://github.com/facebookresearch/Detectron>{:target="_blank"} `pytorch/caffe2`
+- arxiv: https://arxiv.org/abs/1708.02002
+- github: https://github.com/facebookresearch/Detectron `pytorch/caffe2`
 
 <span id="16">[16]</span> **Single-Shot Refinement Neural Network for Object Detection**
 
 - comments: CVPR 2018
-- arxiv: <https://arxiv.org/abs/1711.06897>{:target="_blank"}
-- github: <https://github.com/sfzhang15/RefineDet>{:target="_blank"} `caffe`
+- arxiv: https://arxiv.org/abs/1711.06897
+- github: https://github.com/sfzhang15/RefineDet `caffe`
 
 <span id="17">[17]</span> **Zigzag Learning for Weakly Supervised Object Detection**
 
 - comments: CVPR 2018
-- arxiv: <https://arxiv.org/abs/1804.09466>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1804.09466
 
 <span id="18">[18]</span> **W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection**
 
 - comments: CVPR 2018
-- openaccess: [Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html){:target="_blank"}
+- openaccess: [Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
 
 # <u>More Papers</u>
 
 **Feature Pyramid Networks for Object Detection**
 
 - comments: CVPR 2017; **FPN**
-- arxiv: <https://arxiv.org/abs/1612.03144>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1612.03144
 
 # <u>References</u>
 
-- [handong1587.github.io: Object Detection](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html){:target="_blank"}
-- [PASCAL VOC2007 Database Statistics](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/dbstats.html){:target="_blank"}
-- [Detection Results: VOC2012 Competition "comp4"](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4){:target="_blank"}
-- [Detection Leaderboard: COCO Challenge 2017](http://cocodataset.org/#detection-leaderboard){:target="_blank"}
+- [handong1587.github.io: Object Detection](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
+- [PASCAL VOC2007 Database Statistics](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/dbstats.html)
+- [Detection Results: VOC2012 Competition "comp4"](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=4)
+- [Detection Leaderboard: COCO Challenge 2017](http://cocodataset.org/#detection-leaderboard)

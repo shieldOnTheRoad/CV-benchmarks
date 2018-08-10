@@ -2,14 +2,14 @@
 
 This repository aims to provide readers with the current benchmarks for the most common Computer Vision (CV) tasks, including `Object Detection`, `Pose Estimation`, `Scene Text Recognition`, `Video Classification`, `Visual Question Answering` et al.
 
-### #1 Table of contents
+### Table of contents
 
-|                                              |                                                  |                                               |
-| :------:                                     | :------:                                         | :------:                                      |
-| [object_detection][1]{:target="_blank"}      | [pose_estimation][2]{:target="_blank"}           | [scene_text_recognition][3]{:target="_blank"} |
-| ![object_det]                                | ![pose_estimation]                               | ![STR]                                        |
-| [video classification][4]{:target="_blank"}  | [visual_question_answering][5]{:target="_blank"} |                                               |
-| ![video_cls]                                 | ![vqa]                                           | ![coming_soon]                                |
+|                            |                                |                                               |
+| :------:                   | :------:                       | :------:                                      |
+| [object_detection][1]      | [pose_estimation][2]           | [scene_text_recognition][3]                   |
+| ![object_det]              | ![pose_estimation]             | ![STR]                                        |
+| [video classification][4]  | [visual_question_answering][5] |                                               |
+| ![video_cls]               | ![vqa]                         | ![coming_soon]                                |
 
 [1]: object_detection.md
 [2]: pose_estimation.md
@@ -24,7 +24,7 @@ This repository aims to provide readers with the current benchmarks for the most
 [vqa]: ./imgs/vqa.jpg "visual question answering"
 [coming_soon]: ./imgs/coming_soon.jpg "coming soon"
 
-### #2 Todo List
+### Todo List
 
 - [ ] benchmark of face recognition
 - [ ] benchmark of visual segmentation

@@ -7,12 +7,12 @@
 **MPII**
 
 - comments: ~25K images
-- download: <http://human-pose.mpi-inf.mpg.de/#download>{:target="_blank"}
+- download: http://human-pose.mpi-inf.mpg.de/#download
 
 **MSCOCO**
 
 - comments: >30W images
-- download: <http://cocodataset.org/#download>{:target="_blank"}
+- download: http://cocodataset.org/#download
 
 # <u>Benchmarks</u>
 
@@ -35,41 +35,41 @@
 <span id="1">[1]</span> **RMPE: Regional Multi-person Pose Estimation**
 
 - comments: ICCV 2017
-- arxiv: <https://arxiv.org/abs/1612.00137>{:target="_blank"}
-- github: <https://github.com/Fang-Haoshu/RMPE>{:target="_blank"} `caffe`
-- github: <https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch>{:target="_blank"} `pytorch`
+- arxiv: https://arxiv.org/abs/1612.00137
+- github: https://github.com/Fang-Haoshu/RMPE `caffe`
+- github: https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch `pytorch`
 
 <span id="2">[2]</span> **Cascaded Pyramid Network for Multi-Person Pose Estimation**
     
 - comments: CVPR 2018; **Megvii**
-- arxiv: <https://arxiv.org/abs/1711.07319>{:target="_blank"}
-- github: <https://github.com/chenyilun95/tf-cpn>{:target="_blank"} `tensorflow`
+- arxiv: https://arxiv.org/abs/1711.07319
+- github: https://github.com/chenyilun95/tf-cpn `tensorflow`
 
 <span id="3">[3]</span> **Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**
 
 - comments: CVPR 2017; **OpenPose**
-- arxiv: <https://arxiv.org/abs/1611.08050>{:target="_blank"}
-- github: <https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1611.08050
+- github: https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 
 <span id="4">[4]</span> **Associative Embedding:End-to-End Learning for Joint Detection and Grouping**
 
 - comments: NIPS 2017
-- arxiv: <https://arxiv.org/abs/1611.05424>{:target="_blank"}
-- github: <https://github.com/umich-vl/pose-ae-train>{:target="_blank"} `pytorch`
+- arxiv: https://arxiv.org/abs/1611.05424
+- github: https://github.com/umich-vl/pose-ae-train `pytorch`
 
 <span id="5">[5]</span> **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
 
 - comments: arxiv preprint
-- arxiv: <https://arxiv.org/abs/1803.08225>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1803.08225
 
 # <u>More Papers</u>
 
 **Pose Flow: Efficient Online Pose Tracking**
 
 - comments: BMVC 2018
-- arxiv: <https://arxiv.org/abs/1802.00977>{:target="_blank"}
-- github: <https://github.com/YuliangXiu/PoseFlow>{:target="_blank"}
+- arxiv: https://arxiv.org/abs/1802.00977
+- github: https://github.com/YuliangXiu/PoseFlow
 
 # <u>References</u>
 
-- [MSCOCO Challenge Keypoint Leaderboard](http://cocodataset.org/#keypoints-leaderboard){:target="_blank"}
+- [MSCOCO Challenge Keypoint Leaderboard](http://cocodataset.org/#keypoints-leaderboard)
