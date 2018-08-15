@@ -41,9 +41,10 @@
 | SSD <sup>[[14](#14)]</sup>               | 81.6     | 80.0     |                           |         | **07+12+COCO dataset**;                                             |
 | RetinaNet <sup>[[15](#15)]</sup>         |          |          | 40.8                      |         | `ResNeXt-101-FPN` backbone;                                         |
 | RefineDet512+ <sup>[[16](#16)]</sup>     | 83.8     | 83.5     | 41.8                      |         | 1) `VGG16` backbone;<br>2) **07++12+COCO dataset**;<br>3) MSTest;   |
+| CornerNet <sup>[[17](#17)]</sup>         |          |          | 42.1                      |         | `Hourglass-104` backbone;                                           |
 | **<u>weakly-learning</u>**               |          |          |                           |         |                                                                     |
-| ZLDN-L <sup>[[17](#17)]</sup>            | 47.6     | 42.9     |                           |         |                                                                     |
-| W2F <sup>[[18](#18)]</sup>               | 52.4     | 47.8     |                           |         |                                                                     |
+| ZLDN-L <sup>[[18](#18)]</sup>            | 47.6     | 42.9     |                           |         |                                                                     |
+| W2F <sup>[[19](#19)]</sup>               | 52.4     | 47.8     |                           |         |                                                                     |
 
 **Note that:** 
 
@@ -144,12 +145,18 @@
 - arxiv: https://arxiv.org/abs/1711.06897
 - github: https://github.com/sfzhang15/RefineDet `caffe`
 
-<span id="17">[17]</span> **Zigzag Learning for Weakly Supervised Object Detection**
+<span id="17">[17]</span> **CornerNet: Detecting Objects as Paired Keypoints**
+
+- comments: ECCV 2018
+- arxiv: https://arxiv.org/abs/1808.01244
+- github: https://github.com/umich-vl/CornerNet
+
+<span id="18">[18]</span> **Zigzag Learning for Weakly Supervised Object Detection**
 
 - comments: CVPR 2018
 - arxiv: https://arxiv.org/abs/1804.09466
 
-<span id="18">[18]</span> **W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection**
+<span id="19">[19]</span> **W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection**
 
 - comments: CVPR 2018
 - openaccess: [Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
