@@ -3,7 +3,7 @@
 <!-- date: 2018/08/05 -->
 
 
-# <u>Datasets</u>
+# Datasets
 
 **VOC2007**
 
@@ -20,7 +20,7 @@
 - comments: 165,482 images (train) / 81,208 images (val) / 81,434 images (test)
 - download: http://cocodataset.org/#download
 
-# <u>Benchmarks</u>
+# Benchmarks
 
 | Method                                   | VOC2007  | VOC2012  | COCO                      | Speed   | Completementary Info                                                |
 | :-------------------:                    | :------: | :------: | :------:                  | :-----: | :----------------------                                             |
@@ -161,14 +161,14 @@
 - comments: CVPR 2018
 - openaccess: [Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
 
-# <u>More Papers</u>
+# More Papers
 
 **Feature Pyramid Networks for Object Detection**
 
 - comments: CVPR 2017; **FPN**
 - arxiv: https://arxiv.org/abs/1612.03144
 
-# <u>References</u>
+# References
 
 - [handong1587.github.io: Object Detection](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 - [PASCAL VOC2007 Database Statistics](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/dbstats.html)

@@ -2,7 +2,7 @@
 <!-- theme: pose estimation -->
 <!-- date: 2018/08/07 -->
 
-# <u>Datasets</u>
+# Datasets
 
 **MPII**
 
@@ -14,7 +14,7 @@
 - comments: >30W images
 - download: http://cocodataset.org/#download
 
-# <u>Benchmarks</u>
+# Benchmarks
 
 | Method                                     | MPII     | MSCOCO ( test-dev)    | AI challenger | Speed     | Completementary Info                                          |
 | :-------------------:                      | :------: | :------:              | :------:      | :------:  | :----------------------                                       |
@@ -62,7 +62,7 @@
 - comments: arxiv preprint
 - arxiv: https://arxiv.org/abs/1803.08225
 
-# <u>More Papers</u>
+# More Papers
 
 **Pose Flow: Efficient Online Pose Tracking**
 
@@ -70,6 +70,6 @@
 - arxiv: https://arxiv.org/abs/1802.00977
 - github: https://github.com/YuliangXiu/PoseFlow
 
-# <u>References</u>
+# References
 
 - [MSCOCO Challenge Keypoint Leaderboard](http://cocodataset.org/#keypoints-leaderboard)

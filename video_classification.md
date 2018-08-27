@@ -2,7 +2,7 @@
 <!-- theme: video classification -->
 <!-- date: 2018/08/07 -->
 
-# <u>Datasets</u>
+# Datasets
 
 **UCF101**
 
@@ -24,7 +24,7 @@
 - comments: 8.2M videos, 4800 classes, 1.8 labels/video, 1.9B visual-only features
 - download: https://research.google.com/youtube8m/download.html
 
-# <u>Benchmarks</u>
+# Benchmarks
 
 | Method                                 | UCF101   | Sports1M | Kinetics                 | YT8M    | Speed    | Completementary Info                                   |
 | :-------------------:                  | :------: | :------: | :------:                 | :------:| :------: | :----------------------                                |
@@ -89,7 +89,7 @@
 - arxiv: https://arxiv.org/abs/1706.06905
 - github: https://github.com/antoine77340/LOUPE `tensorflow`
 
-# <u>More Papers</u>
+# More Papers
 
 **Large-scale Video Classification with Convolutional Neural Networks**
 
@@ -102,7 +102,7 @@
 - arxiv: https://arxiv.org/abs/1609.08675
 - github: https://github.com/google/youtube-8m
 
-# <u>References</u>
+# References
 
 - [Deep Learning for Video Classification and Captioning](https://arxiv.org/pdf/1609.06782)
 - [five-video-classification-methods](https://github.com/harvitronix/five-video-classification-methods)

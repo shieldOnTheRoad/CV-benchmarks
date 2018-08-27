@@ -2,7 +2,7 @@
 <!-- theme: Scene Text Recognition (STR) -->
 <!-- date: 2018/08/09 -->
 
-# <u>Datasets</u>
+# Datasets
 
 **ICDAR 2015**
 
@@ -20,7 +20,7 @@
 - download: https://vision.cornell.edu/se3/coco-text-2
 
 
-# <u>Benchmarks</u>
+# Benchmarks
 
 | Method                                  | ICDAR 2015 | MSRA-TD500 | COCO-Text | Speed    | Completementary Info                                |
 | :-------------------:                   | :------:   | :------:   | :------:  | :------: |:----------------------                              |
@@ -126,14 +126,14 @@
 - comments: CVPR 2018; **SenseTime**
 - arxiv: https://arxiv.org/abs/1801.01671
 
-# <u>More Papers</u>
+# More Papers
 
 **Fully Convolutional Networks for Semantic Segmentation**
 
 - comments: CVPR 2015; **FCN**
 - arxiv: https://arxiv.org/abs/1411.4038
 
-# <u>References</u>
+# References
 
 - [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
 - [Scene-Text-Understanding](https://github.com/tangzhenyu/Scene-Text-Understanding)

@@ -3,7 +3,7 @@
 <!-- date: 2018/07/23 -->
 
 
-# <u>Datasets</u>
+# Datasets
 
 **DAQUAR**
 
@@ -20,7 +20,7 @@
 - comments: 443,757 questions (train) / 214,354 questions (validation) / 447,793 questions (test)
 - download: http://visualqa.org/download.html
 
-# <u>Benchmarks</u>
+# Benchmarks
 
 | Method                                 | VQA v1.0    | VQA v2.0 (test-standard)               | Completementary Info                                    |
 | :-------------------:                  | :------:    | :--------------------------:           | :------                                                 |
@@ -64,7 +64,7 @@
 - arxiv: https://arxiv.org/abs/1807.09956
 - github: https://github.com/facebookresearch/pythia
 
-# <u>More Papers</u>
+# More Papers
  
 **Stacked Attention Networks for Image Question Answering**
 
@@ -77,6 +77,6 @@
 - comments: CVPR 2017; description of VQA v2.0 dataset
 - arxiv: https://arxiv.org/abs/1612.00837
 
-# <u>References</u>
+# References
 
 - https://handong1587.github.io/deep_learning/2015/10/09/vqa.html
