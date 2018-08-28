@@ -17,7 +17,7 @@
 
 # Benchmarks
 
-| Method                                 | MSCOCO (img5K-Q)   | MSCOCO (text-Q)    | Flickr30K (img-Q)  | Flickr30K (text-Q) | Completementary Info                          |
+| Method                                 | COCO (img5K-Q)     | COCO (text-Q)      | Flickr30K (img-Q)  | Flickr30K (text-Q) | Completementary Info                          |
 | :-------------------:                  | :------:           | :------:           | :------:           | :------:           | :------                                       |
 |                                        | `R@1`/`R@5`/`R@10` | `R@1`/`R@5`/`R@10` | `R@1`/`R@5`/`R@10` | `R@1`/`R@5`/`R@10` |                                               |
 | DVSA <sup>[[1](#1)]</sup>              | 10.7 / 29.6 / 42.2 |                    | 15.2 / 37.7 / 50.5 |                    |                                               |

@@ -8,7 +8,7 @@ This repository aims to provide readers with the current benchmarks for the most
 | :------:                   | :------:                       | :------:                    |
 | [object_detection][1]      | [pose_estimation][2]           | [scene_text_recognition][3] |
 | ![object_det]              | ![pose_estimation]             | ![STR]                      |
-| [video classification][4]  | [visual_question_answering][5] | [image_text_retrieval][6]   |
+| [video_classification][4]  | [visual_question_answering][5] | [image_text_retrieval][6]   |
 | ![video_cls]               | ![vqa]                         | ![image_text_retrieval]     |
 
 [1]: object_detection.md
