@@ -15,6 +15,7 @@
 - comments:  31,000 images with five captions each
 - download: http://web.engr.illinois.edu/~bplumme2/Flickr30kEntities/
 
+
 # Benchmarks
 
 | Method                       | MSCOCO<br>(img5K-query)| MSCOCO<br>(text-query)| Flickr30K<br>(image-query)| Flickr30K<br>(text-query)| Completementary Info                  |
@@ -25,6 +26,7 @@
 | DPC <sup>[[3](#3)]</sup>     | 41.2 / 70.5 / 81.1     | 25.3 / 53.4 / 66.4    | 55.6 / 81.9 / 89.5        | 39.1 / 69.2 / 80.9       | 1) res50-COCO<br>2) res152-Flicker30K |
 | DAN <sup>[[4](#4)]</sup>     |                        |                       | 55.0 / 81.8 / 89.0        | 39.4 / 69.2 / 79.1       | finetune Resnet                       |
 | SCAN <sup>[[5](#5)]</sup>    | 38.6 / 69.3 / 80.4     | 50.4 / 82.2 / 90.0    | 48.6 / 77.7 / 85.2        | 67.4 / 90.3 / 95.8       | 1) Faster R-CNN<br>2) ResNet          |
+| Webly <sup>[[6](#6)]</sup>   | 61.5 / --.- / 96.1     | 46.3 / --.- / 89.4    | 47.4 / --.- / 85.9        | 35.2 / --.- / 74.8       | ResNet152                             |
 
 **Note that:**  `R@K` is Recall@K (high is good). 
 
@@ -57,12 +59,19 @@
 - arxiv: https://arxiv.org/abs/1803.08024
 - github: https://github.com/kuanghuei/SCAN
 
+<span id=6>[6]</span> **Webly Supervised Joint Embedding for Cross-Modal Image-Text Retrieval**
+
+- comments: ACM Multimedia 2018
+- arxiv: https://arxiv.org/abs/1808.07793
+
+
 # More Papers
 
 **Order-embeddings of images and language**
 
 - comments: ICLR 2016
 - arxiv: https://arxiv.org/abs/1511.06361
+
 
 # References
 
