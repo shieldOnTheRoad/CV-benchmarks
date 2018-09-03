@@ -7,13 +7,14 @@
 
 **MSCOCO**
 
-- comments: 123,287 images with five text descriptions each
-- download: missing
+- comments: 123,287 images with 5 text descriptions each
+- download: http://cocodataset.org/#download
 
 **Flickr30k**
 
-- comments:  31,000 images with five captions each
+- comments:  31,000 images with 5 captions each
 - download: http://web.engr.illinois.edu/~bplumme2/Flickr30kEntities/
+- download: http://nlp.cs.illinois.edu/HockenmaierGroup/8k-pictures.html
 
 
 # Benchmarks
@@ -25,7 +26,7 @@
 | mCNN <sup>[[2](#2)]</sup>    |                        |                       | 26.2 / 56.3 / 69.6        | 33.6 / 64.1 / 74.9       | **ensemble model**                    |
 | DPC <sup>[[3](#3)]</sup>     | 41.2 / 70.5 / 81.1     | 25.3 / 53.4 / 66.4    | 55.6 / 81.9 / 89.5        | 39.1 / 69.2 / 80.9       | 1) res50-COCO<br>2) res152-Flicker30K |
 | DAN <sup>[[4](#4)]</sup>     |                        |                       | 55.0 / 81.8 / 89.0        | 39.4 / 69.2 / 79.1       | finetune Resnet                       |
-| SCAN <sup>[[5](#5)]</sup>    | 38.6 / 69.3 / 80.4     | 50.4 / 82.2 / 90.0    | 48.6 / 77.7 / 85.2        | 67.4 / 90.3 / 95.8       | 1) Faster R-CNN<br>2) ResNet          |
+| SCA <sup>[[5](#5)]</sup>     | 38.6 / 69.3 / 80.4     | 50.4 / 82.2 / 90.0    | 48.6 / 77.7 / 85.2        | 67.4 / 90.3 / 95.8       | 1) Faster R-CNN<br>2) ResNet          |
 | Webly <sup>[[6](#6)]</sup>   | 61.5 / --.- / 96.1     | 46.3 / --.- / 89.4    | 47.4 / --.- / 85.9        | 35.2 / --.- / 74.8       | ResNet152                             |
 
 **Note that:**  `R@K` is Recall@K (high is good). 
