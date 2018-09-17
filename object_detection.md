@@ -34,6 +34,7 @@
 | Light-Head R-CNN <sup>[[8](#8)]</sup>    |          |          | 41.5                      |         | 1) `Res101-FPN` backbone;<br>2) MSTrain;<br>3) RoIalign;            |
 | MegDet <sup>[[9](#9)]</sup>              |          |          | 52.5                      |         | 1) `Res50-FPN` backbone;<br>2) Large Mini-Batch;<br>3) **Ensemble**;|
 | SNIPER <sup>[[10](#10)]</sup>            |          |          | 47.6                      |         | 1) `Res101` backbone;<br>2) finetune OpenImages;                    |
+| Cascade R-CNN <sup>[[20](#20)]</sup>     |          |          | 42.8                      |         | 1) `Res101` backbone;                                               |
 | **<u>one-stage</u>**                     |          |          |                           |         |                                                                     |
 | YOLO-v1 <sup>[[11](#11)]</sup>           | 63.4     | 57.9     |                           |         |                                                                     |
 | YOLO-9000 <sup>[[12](#12)]</sup>         | 78.6     | 73.4     |                           |         |                                                                     |
@@ -160,6 +161,13 @@
 
 - comments: CVPR 2018
 - openaccess: [Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.html)
+
+<span id="20">[20]</span> **Cascade R-CNN: Delving into High Quality Object Detection**
+
+- comments: CVPR 2018
+- arxiv: https://arxiv.org/abs/1712.00726
+- github: https://github.com/zhaoweicai/cascade-rcnn `caffe`
+- github: [model_cascade](https://github.com/tensorpack/tensorpack/blob/master/examples/FasterRCNN/model_cascade.py) `tensorflow`
 
 # More Papers
 
