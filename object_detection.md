@@ -171,6 +171,16 @@
 
 # More Papers
 
+**Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks**
+
+- comments: arxiv preprint
+- arvix: https://arxiv.org/abs/1809.03193
+
+**Deep Learning for Generic Object Detection: A Survey**
+
+- comments: arxiv preprint
+- arvix: https://arxiv.org/abs/1809.02165
+
 **Feature Pyramid Networks for Object Detection**
 
 - comments: CVPR 2017; **FPN**
