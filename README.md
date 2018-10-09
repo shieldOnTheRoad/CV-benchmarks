@@ -2,7 +2,7 @@
 
 `cv benchmarks` / `cv baselines`
 
-This repository aims to provide readers with the current benchmarks for the most common Computer Vision (CV) tasks, including `Object Detection`, `Pose Estimation`, `Scene Text Recognition`, `Video Classification`, `Visual Question Answering`, `image text retrieval` and so on.
+This repository aims to provide readers with the current benchmarks for the most common Computer Vision (CV) tasks, including *Object Detection*, *Pose Estimation*, *Scene Text Recognition*, *Video Classification*, *Visual Question Answering*, *image text retrieval* and so on.
 
 ### Table of contents
 
